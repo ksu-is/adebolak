@@ -1,4 +1,4 @@
-# adebolak
+# CONNECT 4
 IS3020/CONNECT 4
 # Connect4-Python
 Connect 4 programmed in python using pygame.
